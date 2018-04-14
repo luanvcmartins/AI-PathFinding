@@ -1,0 +1,2 @@
+java pathfinding.Main
+pause
